@@ -14,7 +14,7 @@ class _SummaryPageState extends State<SummaryPage> {
       body: SafeArea(
           child: Center(
         child: Text(
-          "helllo",
+          "byeee",
         ),
       )),
     );
